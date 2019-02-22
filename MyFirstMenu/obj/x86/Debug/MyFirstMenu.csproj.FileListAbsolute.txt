@@ -1,0 +1,6 @@
+/Users/blakefreeman/Projects/MyFirstMenu/MyFirstMenu/bin/Debug/MyFirstMenu.exe
+/Users/blakefreeman/Projects/MyFirstMenu/MyFirstMenu/bin/Debug/MyFirstMenu.pdb
+/Users/blakefreeman/Projects/MyFirstMenu/MyFirstMenu/obj/x86/Debug/MyFirstMenu.csproj.CoreCompileInputs.cache
+/Users/blakefreeman/Projects/MyFirstMenu/MyFirstMenu/obj/x86/Debug/MyFirstMenu.exe
+/Users/blakefreeman/Projects/MyFirstMenu/MyFirstMenu/obj/x86/Debug/MyFirstMenu.pdb
+/Users/blakefreeman/Projects/MyFirstMenu/MyFirstMenu/obj/x86/Debug/MyFirstMenu.csprojAssemblyReference.cache
